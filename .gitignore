@@ -1,2 +1,4 @@
-# created by virtualenv automatically
-*
+_pycache_
+.venv
+# OS files
+.DS_Store
